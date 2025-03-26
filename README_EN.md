@@ -1,4 +1,6 @@
 # JqGeoJsonPlot
+[简体中文](README.md) | [English](README_EN.md)
+
 JqGeoJsonPlot is an easy-to-use jq-based geographic JSON data visualization library. It provides a simple way to display geographic JSON data in the terminal with text labels.
 
 ## Installation and Usage
@@ -28,4 +30,3 @@ See src/main/main.mbt for detailed code. Here are some image examples:
 ![Example Plot](image/china.png)
 ![Example Plot](image/hunan.png)
 ![Example Plot](image/changsha.png)
-```
