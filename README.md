@@ -1,4 +1,5 @@
 # JqGeoJsonPlot
+[简体中文](README.md)|[English](README_EN.md)
 JqGeoJsonPlot是一个易于使用的基于jq的地理JSON数据可视化库。它提供了一种简单的方法来在终端中显示地理JSON数据，并能展示文字标签。
 ## 配置依赖运行示例
 
