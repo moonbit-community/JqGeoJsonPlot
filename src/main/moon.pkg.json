@@ -1,0 +1,15 @@
+{
+  "is-main": true,
+  "import": [
+    "JqGeoJsonPlot/lib",
+    "moonbitlang/x/sys"
+  ],
+  "link": {
+    "native": {
+      "flags": [
+        "-cc",
+        "/D/zig/zig.exe cc -target riscv64-linux-musl -O2 -static"
+      ]
+    }
+  }
+}
